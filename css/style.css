@@ -1,0 +1,31 @@
+body{
+    background-image:url('../img/background.jpg');
+}
+
+#menu{
+    position: sticky;
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+    box-shadow:  0 0 10px #000000;
+}
+
+#tv-container{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.tv{
+    width: 50%;
+    height: 50%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-image: url('../img/FNV.jpg');
+    background-size: cover;
+}
+#consola img{
+    width: 30%;
+    height: 30%;
+}
