@@ -24,6 +24,9 @@ We will need 4 PNG images 600x600px for the buttons and 5 jpg images with a 1920
 
 https://agustinresecodev.github.io/consola/
 
+![Screenshot 2024-01-15 160053](https://hackmd.io/_uploads/ByTN7g7Y6.png)
+![Screenshot 2024-01-15 160119](https://hackmd.io/_uploads/HyaVme7YT.png)
+
 
 ## 🛠 Skills
 Javascript, HTML, CSS...
